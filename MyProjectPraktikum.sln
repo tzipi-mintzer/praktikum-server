@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProjectPraktikum", "MyProjectPraktikum\MyProjectPraktikum.csproj", "{6596B9CD-DBC4-4AEA-A5B3-78062EAF201F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProjectPraktikum.Repositories", "MyProjectPraktikum.Repository\MyProjectPraktikum.Repositories.csproj", "{98BAD6D4-40E1-44DE-B43F-6A008B47E333}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProjectPraktikum.Services", "MyProjectPraktikum.Services\MyProjectPraktikum.Services.csproj", "{2A3E5518-5D0D-4BBB-9D7A-91D8EB15491F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProjectPraktikum.Common", "MyProjectPraktikum.Common\MyProjectPraktikum.Common.csproj", "{2DFE9331-9F7C-4709-B7D4-30FD099B546C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProjectPraktikum.API", "MyProjectPraktikum.API\MyProjectPraktikum.API.csproj", "{94F73447-B2B8-4A5C-AF1C-46D7BA1DCBAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProjectPraktikum.Context", "MyProjectPraktikum.Context\MyProjectPraktikum.Context.csproj", "{2B1EA869-4609-4264-B966-3E9C2A4B8438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6596B9CD-DBC4-4AEA-A5B3-78062EAF201F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6596B9CD-DBC4-4AEA-A5B3-78062EAF201F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6596B9CD-DBC4-4AEA-A5B3-78062EAF201F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6596B9CD-DBC4-4AEA-A5B3-78062EAF201F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98BAD6D4-40E1-44DE-B43F-6A008B47E333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98BAD6D4-40E1-44DE-B43F-6A008B47E333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98BAD6D4-40E1-44DE-B43F-6A008B47E333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98BAD6D4-40E1-44DE-B43F-6A008B47E333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A3E5518-5D0D-4BBB-9D7A-91D8EB15491F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3E5518-5D0D-4BBB-9D7A-91D8EB15491F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A3E5518-5D0D-4BBB-9D7A-91D8EB15491F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A3E5518-5D0D-4BBB-9D7A-91D8EB15491F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DFE9331-9F7C-4709-B7D4-30FD099B546C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DFE9331-9F7C-4709-B7D4-30FD099B546C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DFE9331-9F7C-4709-B7D4-30FD099B546C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DFE9331-9F7C-4709-B7D4-30FD099B546C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94F73447-B2B8-4A5C-AF1C-46D7BA1DCBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F73447-B2B8-4A5C-AF1C-46D7BA1DCBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F73447-B2B8-4A5C-AF1C-46D7BA1DCBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F73447-B2B8-4A5C-AF1C-46D7BA1DCBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B1EA869-4609-4264-B966-3E9C2A4B8438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B1EA869-4609-4264-B966-3E9C2A4B8438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B1EA869-4609-4264-B966-3E9C2A4B8438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B1EA869-4609-4264-B966-3E9C2A4B8438}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8F692FC-2F01-4E15-9534-F83E43DE9EF1}
+	EndGlobalSection
+EndGlobal
